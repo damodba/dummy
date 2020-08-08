@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 
 class ParticipantM {
   int _partyId;
+
   String _hostGkey;
   String _guestGkey;
   int _memberCount;
